@@ -50,7 +50,7 @@ apt show package-name
 
 # Diferença entre `apt` e outros comandos de pacotes
 
-- **APT vs `dpkg`:** O **dpkg** é a ferramenta de baixo nível usada para gerenciar pacotes Debian, enquanto o **APT** é uma camada mais alta que usa `dpkg` e outros utilitários para resolver dependências automaticamente. Ou seja, o APT facilita a instalação e a atualização de pacotes, enquanto o dpkg lida com a instalação de pacotes individuais sem resolver dependências.
+- **APT vs `dpkg`:** O **dpkg** é a ferramenta de baixo nível usada para gerenciar pacotes Debian, enquanto o **APT** é uma camada mais alta que usa `dpkg` e outros utilitários para resolver dependências automaticamente. Ou seja, o APT facilita a #### **Obsidian Sync + GitHub**instalação e a atualização de pacotes, enquanto o dpkg lida com a instalação de pacotes individuais sem resolver dependências.
 
 - **APT vs `apt-get`:** O comando `apt-get` é a versão mais antiga e um pouco mais complexa do APT. Embora ambos cumpram funções similares, o **apt** foi introduzido para tornar os comandos mais simples e amigáveis, combinando funcionalidades dos comandos `apt-get` e `apt-cache`. Por exemplo:
 
