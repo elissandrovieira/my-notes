@@ -1,0 +1,1 @@
+Package manager é uma ferramenta que facilita a instalação, atualização, remoção e gerenciamento de pacotes (programas e bibliotecas) em um sistema operacional.

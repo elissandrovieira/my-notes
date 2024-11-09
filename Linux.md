@@ -1,0 +1,1 @@
+Linux é o sistema operacional de código aberto mais usado no mundo. Ele foi desenvolvido por Linus Torvalds, baseado no [[Unix]], mas com o objetivo de democratizar o sistema o tornando de código aberto.
