@@ -1,4 +1,4 @@
-O *apt* (Advanced Package Tool) é um [[package manager]] usado em distros [[Linux]] baseadas em Debian, como Ubuntu e Linux Mint.
+O *apt* (Advanced Package Tool) é um [[Package Manager]] usado em distros [[Linux]] baseadas em Debian, como Ubuntu e Linux Mint.
 
 o apt utiliza repositórios de pacotes para baixar e instalar o software pedido. Ele lida com o download, instalação e atualização dos pacotes.
 

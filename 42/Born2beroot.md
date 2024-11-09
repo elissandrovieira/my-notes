@@ -13,26 +13,13 @@ Para isso devemos digitar o comando *su* no terminal.
 su
 ```
 
-depois disso, instalar usando [[apt]].
+# Configuração de usuários e grupos
 
-```
-apt install sudo
-```
+## [[Grupos]]
+Precisamos criar um grupo chamado `user42`.
 
-para que as alterações surtam efeito, precisamos reiniciar a vm.
+## Usuários
+Iremos incluir nosso usuário `eteofilo` dentro dos grupos `sudo` e `user42`. Veja [[Grupos]] para saber como fazer.
 
-```
-sudo reboot
-```
-
-## Verificação do sudo
-Para verificar se o sudo foi realmente instalado, digite o comando `sudo -V `. O resultado é como esse abaixo:
-
-```
-Sudo version 1.9.13p3
-Sudoers policy plugin version 1.9.13p3
-Sudoers file grammar version 50
-Sudoers I/O plugin version 1.9.13p3
-Sudoers audit plugin version 1.9.13p3
-```
-
+# Instalação e configuração do [[SSH]]
+Agora, iremos instalar o [[OpenSSH]], uma ferramenta que inclui um servidor e um cliente SSH.

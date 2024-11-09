@@ -1,0 +1,1 @@
+GID (Group ID), é o número identificador de um grupo.
