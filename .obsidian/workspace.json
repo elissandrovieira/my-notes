@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "613ee21479ab452c",
+        "id": "de525a737528d7ef",
         "type": "tabs",
         "children": [
           {
-            "id": "b249e8263eb7ac40",
+            "id": "71169f938cd25464",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "42/Born2beroot.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Born2beroot"
             }
           }
         ]
@@ -73,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 299.5,
+    "collapsed": true
   },
   "right": {
     "id": "57b771ae25433760",
@@ -147,8 +152,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ],
@@ -170,33 +175,38 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "2369f95ef3221b4e",
+  "active": "71169f938cd25464",
   "lastOpenFiles": [
-    "Linux/GID.md",
-    "Linux/LVM.md",
-    "Linux",
-    "Princípios.md",
-    "Linux/Window System.md",
-    "Como tomar notas de maneira inteligente.md",
-    "42/42.md",
     "Linux/sudo.md",
     "42/Born2beroot.md",
+    "42/sudo.md",
+    "Linux/apt.md",
+    "Linux/Window System.md",
+    "Linux/Unix.md",
+    "Linux/SSH.md",
+    "Linux/Package Manager.md",
+    "Linux/OpenSSH.md",
+    "Linux/Linux.md",
+    "Linux/LVM.md",
+    "Linux/Grupos.md",
+    "Linux/GUI.md",
+    "Linux/GID.md",
+    "Linux",
+    "42/42.md",
+    "LVM.md",
+    "42.md",
     "42/Rank1.md",
     "42/Common-core.md",
-    "Linux/OpenSSH.md",
-    "Linux/apt.md",
-    "Linux/Unix.md",
+    "Window System.md",
+    "42/OpenSSH.md",
+    "42/apt.md",
+    "42/GID.md",
+    "Princípios.md",
+    "Como tomar notas de maneira inteligente.md",
+    "42/Unix.md",
     "Untitled 1",
-    "Linux/Package Manager.md",
-    "Linux/GUI.md",
-    "Linux/SSH.md",
-    "Usuários.md",
-    "Linux/Grupos.md",
     "Untitled.canvas",
     "42",
-    "42/get_next_line.md",
-    "Linux/Linux.md",
-    "README.md",
     "_config.yml"
   ]
 }
