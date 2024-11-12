@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Born2beroot"
             }
+          },
+          {
+            "id": "f104f8260ca24432",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,7 +188,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "71169f938cd25464",
+  "active": "f104f8260ca24432",
   "lastOpenFiles": [
     "Linux/sudo.md",
     "42/Born2beroot.md",
