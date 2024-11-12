@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "de525a737528d7ef",
+        "id": "55104d7ce39f656b",
         "type": "tabs",
         "children": [
           {
-            "id": "71169f938cd25464",
+            "id": "33aec50d0eb6409a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Born2beroot"
             }
-          },
-          {
-            "id": "f104f8260ca24432",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.6"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.6"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "right": {
     "id": "57b771ae25433760",
@@ -188,35 +174,43 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "f104f8260ca24432",
+  "active": "33aec50d0eb6409a",
   "lastOpenFiles": [
-    "Linux/sudo.md",
+    "Linux/UFW.md",
     "42/Born2beroot.md",
+    "z - files/Pasted image 20241112182721.png",
+    "z - files/Pasted image 20241112182644.png",
+    "z - files/Pasted image 20241112182710.png",
+    "z - files/Pasted image 20241112182700.png",
+    "z - files",
+    "Math",
+    "Algorithm and Data Structures",
+    "Computing",
+    "z - files/Screenshot from 2024-11-12 18-01-30.png",
+    "Linux/libpam-pwquality.md",
+    "Linux/PAM.md",
+    "Linux/módulo PAM.md",
+    "Computing/API.md",
+    "Linux/Linux.md",
+    "Linux/`libpam-pwquality`.md",
+    "Linux/LVM.md",
+    "Linux/OpenSSH.md",
+    "Linux/Grupos.md",
+    "Linux/SSH.md",
+    "Algorithm and Data Structures/Big O Notation.md",
+    "Math/Logarithm.md",
+    "Linux/sudo.md",
     "42/sudo.md",
     "Linux/apt.md",
     "Linux/Window System.md",
     "Linux/Unix.md",
-    "Linux/SSH.md",
     "Linux/Package Manager.md",
-    "Linux/OpenSSH.md",
-    "Linux/Linux.md",
-    "Linux/LVM.md",
-    "Linux/Grupos.md",
     "Linux/GUI.md",
     "Linux/GID.md",
     "Linux",
     "42/42.md",
     "LVM.md",
     "42.md",
-    "42/Rank1.md",
-    "42/Common-core.md",
-    "Window System.md",
-    "42/OpenSSH.md",
-    "42/apt.md",
-    "42/GID.md",
-    "Princípios.md",
-    "Como tomar notas de maneira inteligente.md",
-    "42/Unix.md",
     "Untitled 1",
     "Untitled.canvas",
     "42",
