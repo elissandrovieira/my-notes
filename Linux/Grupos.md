@@ -22,7 +22,7 @@ sudo adduser user-name group-name
 ```
 
 # Verificando o grupo
-Para verificar se o grupo foi criado corretamente e quais são seus usuários, podemos usar o comando:
+Para verificar se o grupo foi criado corretamente e quais são seus usuários, podemos usar o comando [[Getent]]:
 
 ```
 getent group group-name

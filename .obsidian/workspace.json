@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 299.5,
+    "collapsed": true
   },
   "right": {
     "id": "57b771ae25433760",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "42/sudo.md",
+                "file": "42/Born2beroot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for sudo"
+              "title": "Backlinks for Born2beroot"
             }
           },
           {
@@ -139,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "42/sudo.md"
+                "file": "42/Born2beroot.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of sudo"
+              "title": "Outline of Born2beroot"
             }
           },
           {
@@ -155,12 +156,11 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 289.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -176,8 +176,24 @@
   },
   "active": "33aec50d0eb6409a",
   "lastOpenFiles": [
-    "Linux/UFW.md",
+    "IP.md",
     "42/Born2beroot.md",
+    "TCP.md",
+    "Linux/LVM.md",
+    "vmstat.md",
+    "df.md",
+    "awk.md",
+    "free.md",
+    "wc.md",
+    "grep.md",
+    "Linux/SSH.md",
+    "Linux/libpam-pwquality.md",
+    "Linux/UFW.md",
+    "firewall.md",
+    "Linux/OpenSSH.md",
+    "Linux/Grupos.md",
+    "Linux/sudo.md",
+    "Getent.md",
     "z - files/Pasted image 20241112182721.png",
     "z - files/Pasted image 20241112182644.png",
     "z - files/Pasted image 20241112182710.png",
@@ -187,30 +203,15 @@
     "Algorithm and Data Structures",
     "Computing",
     "z - files/Screenshot from 2024-11-12 18-01-30.png",
-    "Linux/libpam-pwquality.md",
     "Linux/PAM.md",
     "Linux/módulo PAM.md",
     "Computing/API.md",
     "Linux/Linux.md",
     "Linux/`libpam-pwquality`.md",
-    "Linux/LVM.md",
-    "Linux/OpenSSH.md",
-    "Linux/Grupos.md",
-    "Linux/SSH.md",
     "Algorithm and Data Structures/Big O Notation.md",
     "Math/Logarithm.md",
-    "Linux/sudo.md",
     "42/sudo.md",
-    "Linux/apt.md",
-    "Linux/Window System.md",
-    "Linux/Unix.md",
-    "Linux/Package Manager.md",
-    "Linux/GUI.md",
-    "Linux/GID.md",
     "Linux",
-    "42/42.md",
-    "LVM.md",
-    "42.md",
     "Untitled 1",
     "Untitled.canvas",
     "42",
