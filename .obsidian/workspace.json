@@ -11,10 +11,14 @@
             "id": "b249e8263eb7ac40",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Princípios.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Princípios"
             }
           }
         ]
@@ -170,14 +174,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "2369f95ef3221b4e",
+  "active": "b249e8263eb7ac40",
   "lastOpenFiles": [
+    "Como tomar notas de maneira inteligente.md",
     "Linux/GID.md",
     "Linux/LVM.md",
     "Linux",
     "Princípios.md",
     "Linux/Window System.md",
-    "Como tomar notas de maneira inteligente.md",
     "42/42.md",
     "Linux/sudo.md",
     "42/Born2beroot.md",
