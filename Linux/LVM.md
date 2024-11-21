@@ -1,0 +1,1 @@
+O LVM (Logical Volume Manager) é uma tecnologia de gerenciamento de volumes no Linux que permite criar volumes lógicos dentro de grupos de volumes, em vez de depender diretamente de partições físicas.

@@ -1,0 +1,1 @@
+Um módulo [[PAM]] (Pluggable Authentication Module) é uma estrutura de autenticação usada em sistemas [[Unix]] e [[Linux]], projetada para fornecer uma maneira flexível e configurável de gerenciar o processo de autenticação de usuários.
