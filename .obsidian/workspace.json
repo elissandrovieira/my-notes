@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Born2beroot"
             }
+          },
+          {
+            "id": "dcaff93e49ba514c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "right": {
     "id": "57b771ae25433760",
@@ -152,8 +164,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -170,14 +182,14 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "github-sync:Sync with Remote": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "33aec50d0eb6409a",
+  "active": "dcaff93e49ba514c",
   "lastOpenFiles": [
-    "IP.md",
+    "Algorithm and Data Structures/Big O Notation.md",
     "42/Born2beroot.md",
+    "IP.md",
     "TCP.md",
     "Linux/LVM.md",
     "vmstat.md",
@@ -208,7 +220,6 @@
     "Computing/API.md",
     "Linux/Linux.md",
     "Linux/`libpam-pwquality`.md",
-    "Algorithm and Data Structures/Big O Notation.md",
     "Math/Logarithm.md",
     "42/sudo.md",
     "Linux",
