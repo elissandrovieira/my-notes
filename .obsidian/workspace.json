@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "55104d7ce39f656b",
+        "id": "acc7d34749c80723",
         "type": "tabs",
         "children": [
           {
-            "id": "33aec50d0eb6409a",
+            "id": "0f2aee60a9b52b3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Born2beroot"
             }
-          },
-          {
-            "id": "dcaff93e49ba514c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.6"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.6"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,10 +173,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "dcaff93e49ba514c",
+  "active": "0f2aee60a9b52b3d",
   "lastOpenFiles": [
-    "Algorithm and Data Structures/Big O Notation.md",
     "42/Born2beroot.md",
+    "Algorithm and Data Structures/Big O Notation.md",
     "IP.md",
     "TCP.md",
     "Linux/LVM.md",
