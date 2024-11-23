@@ -1,0 +1,5 @@
+Um **firewall** é uma **ferramenta de segurança** que atua como uma barreira entre uma rede interna (como a rede de sua casa ou empresa) e redes externas (como a internet). Seu principal objetivo é **monitorar** e **controlar o tráfego de dados** que entra e sai de um sistema ou rede, permitindo ou bloqueando esses dados com base em **regras de segurança predefinidas**.
+
+### **Como Funciona o Firewall**
+
+O firewall funciona **inspecionando pacotes de dados** (as menores unidades de informação enviadas pela rede) que entram ou saem de uma rede. Quando um pacote é recebido, o firewall verifica o **conteúdo** desse pacote, como o endereço de origem e destino, as portas de origem e destino, e o protocolo usado (por exemplo, HTTP, HTTPS, FTP, etc.). Com base nessas informações, ele decide se o pacote pode ser **permitido** ou **bloqueado**.

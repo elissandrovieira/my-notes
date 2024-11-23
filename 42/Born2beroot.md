@@ -48,7 +48,7 @@ sudo vim /etc/ssh/ssh_config
 
 E faça a mesma coisa que fizemos no arquivo `sshd_config`.
 
-# Instalação e configuração do firewall
+# Instalação e configuração do [[firewall]]
 Devemos instalar e configurar o firewall através do [[UFW]].
 
 # Configuração do sudo
@@ -374,4 +374,198 @@ journalctl _COMM=sudo | grep COMMAND | wc -l)
 - **COMM=sudo:** É um filtro para ser usado com o journalctl. `_COMM`se refere ao nome do comando ou processo que gerou uma entrada no log. No nosso caso, o sudo.
 - **grep COMMAND:** COMMAND, aparece na saída do comando sudo nos logs do journalctl. Assim, o grep filtra os logs sudo.
 - **wc -l:** Retorna o numero de linhas.
-# Crontab
+# [[Crontab]]
+Devemos configurar o crontab editando o arquivo com o seguinte comando:
+
+```shell
+sudo crontab -u root -e
+```
+
+No arquivo, devemos adicionar o seguinte comando para que o script seja executado de 10 em 10 minutos:
+
+```shell
+*/10 * * * * sh /caminho-do-script
+```
+
+
+# Avaliação
+
+## 1. Explique o funcionamento básico de uma máquina virtual
+Uma máquina virtual emula um hardware dedicado e roda um os nele.
+Assim, podemos dedicar parte da memória, armazenamento e núcleos de cpu da maquina física para a máquina virtual.
+
+## 2. Minha escolha de sistema operacional
+Escolhi o Debian por ser mais simples de conseguir finalizar o projeto, visto que temos mais material sobre ele na internet e é mais conhecido do público em geral.
+
+## 3. Diferenças entre Rocky e Debian
+O Rocky é um fork do centOs, distribuição baseada no Red Hat, que é uma distro comercial com suporte pago e serviços empresariais. Isso aconteceu por que o centOs se tornou rolling-release ao em vez de lts. Ele é amplamente usado em servidores por seu suporte ao Red Hat e suporte de 10 anos.
+
+O debian é uma distro muito popular e usada tanto em desktops como servidores. É menos usada em grandes servidores do que o Rocky, devido a sua característica de mesmo em sua versão lts, ter 5 anos de suporte no lugar de 10 anos do Rocky.
+
+## 4. Benefícios de uma máquina virtual
+Com uma máquina virtual, posso testar um sistema sem que eu comprometa o meu sistema atual. É mais seguro para testar sistemas instáveis.
+
+Também me proporciona maior facilidade de backup e restauração por conta dos snapshots e clones.
+
+## 5. Diferenças entre apt e aptitude
+Ambos são gerenciadores de pacotes.
+
+O apt é recomendado pela equipe do Debian por ser mais atual e direto, sem muitas opções ou configurações complexas.
+
+o aptitude é uma ferramenta mais antiga que tem tanto um GUI como CLI.
+Ele oferece várias opções para o gerenciamento de pacotes e mais detalhes sobre cada pacote.
+
+## 6. O que é o AppArmor?
+É um modulo de segurança do Kernel do Linux que fornece um sistema de controle que permite que o administrador do sistema defina restrições para os aplicativos, limitando suas permissões detalhadamente.
+
+*Exemplo*
+O navegador pode ser configurado para não acessar o diretório ~/.ssh ou outros arquivos sensíveis do usuário.
+
+## 7. Verifique se o sistema é o Debian
+```shell
+cat /etc/os-release
+```
+
+## 8. Verifique se o UFW está rodando
+```shell
+sudo ufw status
+```
+
+## 9. Verifique se o SSH está rodando
+```shell
+sudo service ssh status
+```
+
+## 10. Verifique se o usuário eteofilo está dentro do grupo "sudo" e "user42"
+```shell
+getent group sudo
+getent group user42
+```
+## 11. Caso precise verificar politicas de senha
+```shell
+chage -l username
+```
+
+## 12. Como eu modifiquei a política de senhas
+Editei o arquivo `login.defs`
+
+```bash
+/etc/login.defs
+```
+
+Modificando os seguintes parâmetros:
+
+`PASS_MAX_DAYS 99999` para `PASS_MAX_DAYS 30`
+`PASS_MIN_DAYS 0` para `PASS_MIN_DAYS 2`
+
+- `PASS_MAX_DAYS` - Tempo em dias para senha expirar.
+- `PASS_MIN_DAYS` - Tempo mínimo em dias para que a senha possa ser alterada.
+- `PASS_WARN_AGE` - Avisa que falta x tempo para a senha expirar.
+
+Depois, instalei o `libpam-pwquality`, que ajuda a melhorar a qualidade das senhas, e editei o arquivo `common-password` no caminho `/etc/pam.d/common-password`.
+Após `retry=3` devemos acrescentar os seguintes comandos:
+
+```bash
+minlen=10 #O número mínimo de caracteres que a senha deve ter.
+
+ucredit=-1      #Deve conter pelo menos uma letra maiúscula. Usamos `-`,
+				se fosse `+` estaríamos dizendo que seria no máximo uma
+				letra maiúscula.
+			
+dcredit=-1      #Deve conter pelo menos 1 dígito.
+
+lcredit=-1      #Deve conter pelo menos 1 letra minúscula.
+
+maxrepeat=3     #Máximo de vezes em que um caracter pode ser repetido
+				seguido.
+
+reject_username #Não é permitido conter o nome do usuário
+
+difok=7         #Deve conter pelo menos 7 caracteres que não fazem parte
+				da senha antiga.
+		
+enforce_for_root #Essa política será aplicada ao root.
+```
+
+
+## 13. Crie um grupo com nome de "evaluating" e adicione o user do avaliador
+```shell
+sudo addgroup evaluating
+sudo adduser user-name evaluating
+getent group evaluating
+```
+
+## 14. Vantagens e desvantagens de politica de senhas
+### *Vantages*
+- Senhas mais seguras
+	- O usuário deve mudar a senha a cada 30 dias
+	- Requisitos fortes para a senha
+### *Desvantagens*
+- Pessoas que não conseguem se lembrar ou não guardam direito a senha nova, ou diferente do habitual.
+## 15. Verificar hostname
+```shell
+hostnamectl
+```
+
+## 16. Mudar hostname com o avaliador
+```shell
+sudo hostnamectl set-hostname name
+```
+
+*Caso queira ver o hostname no terminal use* `exec bash`.
+
+## 17. Mostrar as partições
+```shell
+lsblk
+```
+
+## 18. LVM
+LVM é o gerenciador de volumes lógicos que dá mais flexibilidade na administração de discos e partições.
+
+Os volumes físicos(HD's, SSD's) formam um unico volume chamado de **volume group** e os lv são criados dentro desse grupo.
+
+Funciona como uma partição tradicional, mas pode ser redimensionado dinamicamente, sem necessidade de formatação.
+
+## 19. Verificar a instalação do sudo ##
+```shell
+command -v sudo
+```
+
+## 20. Verificar os logs do sudo
+```shell
+ls /var/log/sudo/
+cat -e /var/log/sudo/file
+```
+
+## 21. Verificar UFW
+```shell
+sudo ufw status
+```
+
+## 22. Adicionar e remover porta 8080 no UFW
+
+### *Add*
+```shell
+sudo uffw allow 8080
+```
+
+### *remove*
+```shell
+sudo ufw status numbered
+```
+
+```shell
+sudo ufw delete port-number
+```
+
+## 23. Verificar SSH
+```shell
+sudo service ssh status
+```
+
+## 24. O que é o cron
+Um utilitário de agendamento de tarefas, que permite executar scripts automaticamente em horários e datas específicas.
+
+```shell
+sudo systemctl stop cron
+```
