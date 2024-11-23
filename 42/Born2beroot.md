@@ -390,6 +390,11 @@ No arquivo, devemos adicionar o seguinte comando para que o script seja executad
 
 # Avaliação
 
+## 0. Assinatura
+```shell
+shasum Born2beroot.vdi
+```
+
 ## 1. Explique o funcionamento básico de uma máquina virtual
 Uma máquina virtual emula um hardware dedicado e roda um os nele.
 Assim, podemos dedicar parte da memória, armazenamento e núcleos de cpu da maquina física para a máquina virtual.
