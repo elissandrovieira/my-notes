@@ -1,0 +1,11 @@
+# Termos para procurar
+- CI / CG
+- ALM - ciclo de vida da aplicação 
+- Sysadmin
+- Observabilidade / Alerta
+- Microservices
+- DORA - bagulho de devops
+- Shift left
+- Sonar cube
+- Checkmarks 
+- Escola da nuvem

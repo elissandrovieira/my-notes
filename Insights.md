@@ -1,0 +1,1 @@
+Memórias são residuos de raciocínio 
