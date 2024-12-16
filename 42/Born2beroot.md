@@ -94,7 +94,7 @@ Precisamos editar o arquivo `login.defs`
 Devemos modificar os seguintes parâmetros:
 
 `PASS_MAX_DAYS 99999` para `PASS_MAX_DAYS 30`
-`PASS_MIN_DAYS 0` para `PASS_MIN_DAYS 2`
+`PASS_MIN_DAYS 0` para `PASS_MIN_DAYSmm 2`
 
 - `PASS_MAX_DAYS` - Tempo em dias para senha expirar.
 - `PASS_MIN_DAYS` - Tempo mínimo em dias para que a senha possa ser alterada.
