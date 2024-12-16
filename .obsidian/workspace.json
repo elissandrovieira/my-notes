@@ -4,52 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "acc7d34749c80723",
+        "id": "489ca9e80054473e",
         "type": "tabs",
         "children": [
           {
-            "id": "0f2aee60a9b52b3d",
+            "id": "999b57ddf9cb9100",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "42/Born2beroot.md",
+                "file": "42/Rank2/Push-Swap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Born2beroot"
+              "title": "Push-Swap"
             }
           },
           {
-            "id": "8e7b6b7a482d5262",
+            "id": "2e235ee100d99375",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/SSH.md",
+                "file": "Getent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SSH"
-            }
-          },
-          {
-            "id": "b848efda0bd00807",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hackaton Vale.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hackaton Vale"
+              "title": "Getent"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,9 +108,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "42/Born2beroot.md",
+                "file": "Getent.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -131,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Born2beroot"
+              "title": "Backlinks for Getent"
             }
           },
           {
@@ -140,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "42/sudo.md",
+                "file": "Getent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from sudo"
+              "title": "Outgoing links from Getent"
             }
           },
           {
@@ -155,7 +142,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -167,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "42/Born2beroot.md"
+                "file": "Getent.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Born2beroot"
+              "title": "Outline of Getent"
             }
           },
           {
@@ -187,7 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 471.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -201,19 +188,27 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "0f2aee60a9b52b3d",
+  "active": "2e235ee100d99375",
   "lastOpenFiles": [
+    "Linux/Grupos.md",
+    "42/Rank1/Born2beroot.md",
+    "42/42.md",
+    "Workshop - Currículo.md",
+    "42/Rank2/Push-Swap.md",
+    "Untitled",
+    "42/Resources.md",
+    "42/Rank1/Rank1.md",
+    "42/Rank2",
+    "42/Rank1/get_next_line.md",
+    "42/Rank1",
+    "Hackaton Vale.md",
     "Linux/SSH.md",
-    "42/Born2beroot.md",
     "Linux/OpenSSH.md",
     "Linux/UFW.md",
-    "Linux/Grupos.md",
     "firewall.md",
-    "Hackaton Vale.md",
     "Crontab.md",
     "Linux/libpam-pwquality.md",
     "Linux/sudo.md",
-    "42/42.md",
     "vmstat.md",
     "Untitled 1.md",
     "Algorithm and Data Structures/Big O Notation.md",
@@ -224,8 +219,6 @@
     "awk.md",
     "free.md",
     "wc.md",
-    "grep.md",
-    "Getent.md",
     "z - files/Pasted image 20241112182721.png",
     "z - files/Pasted image 20241112182644.png",
     "z - files/Pasted image 20241112182710.png",
@@ -235,13 +228,9 @@
     "Algorithm and Data Structures",
     "Computing",
     "z - files/Screenshot from 2024-11-12 18-01-30.png",
-    "Linux/PAM.md",
-    "Linux/módulo PAM.md",
-    "Computing/API.md",
     "Linux",
     "Untitled 1",
     "Untitled.canvas",
-    "42",
-    "_config.yml"
+    "42"
   ]
 }
