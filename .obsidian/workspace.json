@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "42/Rank2/So long.md",
+                "file": "Como tomar notas de maneira inteligente.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "So long"
+              "title": "Como tomar notas de maneira inteligente"
             }
           }
         ]
@@ -173,11 +173,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "2369f95ef3221b4e",
+  "active": "999b57ddf9cb9100",
   "lastOpenFiles": [
+    "42/Rank2/So long.md",
     "z - files/image-20250110-144255.piskel",
     "42/Rank2/Push-Swap.md",
-    "42/Rank2/So long.md",
     "Como tomar notas de maneira inteligente.md",
     "Princípios.md",
     "Linux/wc.md",
@@ -215,7 +215,6 @@
     "Computing",
     "z - files/Screenshot from 2024-11-12 18-01-30.png",
     "Linux",
-    "Untitled 1",
     "Untitled.canvas"
   ]
 }
