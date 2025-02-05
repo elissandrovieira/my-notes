@@ -3,4 +3,6 @@
 - [[Strings]]
 - [[Method]]
 - [[Extension Methods]]
-- Other
+- [[Tuples]]
+- [[If Statements]]
+- [[Numbers]]

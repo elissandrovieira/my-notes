@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Csharp/Courses/Exercism/0 - Exercism.md",
+                "file": "Computing/Numbers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0 - Exercism"
+              "title": "Numbers"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 299.5,
+    "collapsed": true
   },
   "right": {
     "id": "57b771ae25433760",
@@ -176,13 +177,20 @@
   },
   "active": "b0a442eee9e360f2",
   "lastOpenFiles": [
-    "Computing/Extension Methods.md",
     "Learning/Csharp/Courses/Exercism/0 - Exercism.md",
-    "Computing/Method.md",
-    "Computing/Strings.md",
-    "Learning/Csharp/Csharp.md",
-    "Learning/Csharp/Courses/Exercism/Basics.md",
+    "Computing/Numbers.md",
+    "Computing/Tuples.md",
+    "Computing/If Statements.md",
+    "Computing/Extension Methods.md",
+    "Computing/Namespace.md",
+    "Computing/Header files.md",
     "Computing/Booleans.md",
+    "Computing/Strings.md",
+    "Learning/Csharp/Courses/Exercism/Basics.md",
+    "Computing/Mutation.md",
+    "Computing/Scope.md",
+    "Computing/Method.md",
+    "Learning/Csharp/Csharp.md",
     "Learning/Csharp/Courses/Exercism",
     "_method_.md",
     "Learning/Csharp/Courses/Fundamentos do C Sharp.md",
@@ -201,14 +209,7 @@
     "Linux/IP.md",
     "42/Conexões 42/Insights.md",
     "42/Hackathon 42 + Vale/Hackaton Vale.md",
-    "Linux/free.md",
-    "Linux/df.md",
-    "42/Hackathon 42 + Vale/Desafio.md",
     "42/Hackathon 42 + Vale",
-    "Linux/Crontab.md",
-    "Linux/awk.md",
-    "42/Hackathon 42 + Vale/Expectativas.md",
-    "42/Conexões 42/Mês redonda - Carreira em Devops.md",
     "42/Rank2",
     "42/Rank1",
     "z - files/Pasted image 20241112182721.png",
