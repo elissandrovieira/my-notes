@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "999b57ddf9cb9100",
+            "id": "b0a442eee9e360f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Como tomar notas de maneira inteligente.md",
+                "file": "Learning/Csharp/Courses/Exercism/0 - Exercism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Como tomar notas de maneira inteligente"
+              "title": "0 - Exercism"
             }
           }
         ]
@@ -174,12 +174,26 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "999b57ddf9cb9100",
+  "active": "b0a442eee9e360f2",
   "lastOpenFiles": [
+    "Computing/Extension Methods.md",
+    "Learning/Csharp/Courses/Exercism/0 - Exercism.md",
+    "Computing/Method.md",
+    "Computing/Strings.md",
+    "Learning/Csharp/Csharp.md",
+    "Learning/Csharp/Courses/Exercism/Basics.md",
+    "Computing/Booleans.md",
+    "Learning/Csharp/Courses/Exercism",
+    "_method_.md",
+    "Learning/Csharp/Courses/Fundamentos do C Sharp.md",
+    "Learning/Csharp/Courses",
+    "Learning/Csharp",
+    "Learning",
+    "Programming Languages.md",
+    "Como tomar notas de maneira inteligente.md",
     "42/Rank2/So long.md",
     "z - files/image-20250110-144255.piskel",
     "42/Rank2/Push-Swap.md",
-    "Como tomar notas de maneira inteligente.md",
     "Princípios.md",
     "Linux/wc.md",
     "42/Conexões 42",
@@ -195,15 +209,6 @@
     "Linux/awk.md",
     "42/Hackathon 42 + Vale/Expectativas.md",
     "42/Conexões 42/Mês redonda - Carreira em Devops.md",
-    "42/Conexões 42/Mesa redonda - Carreira na área de cybersegurança.md",
-    "42/Conexões 42/palestra Matteo Cervelli - Vibra Energia.md",
-    "42/Conexões 42/Rh.md",
-    "Linux/vmstat.md",
-    "42/Conexões 42/Workshop - Metodologias ágeis.md",
-    "42/Conexões 42/Workshop - Currículo.md",
-    "Math/Getent.md",
-    "Linux/Grupos.md",
-    "42/Rank1/Born2beroot.md",
     "42/Rank2",
     "42/Rank1",
     "z - files/Pasted image 20241112182721.png",
@@ -211,11 +216,7 @@
     "z - files/Pasted image 20241112182710.png",
     "z - files/Pasted image 20241112182700.png",
     "z - files",
-    "Math",
-    "Algorithm and Data Structures",
-    "Computing",
     "z - files/Screenshot from 2024-11-12 18-01-30.png",
-    "Linux",
     "Untitled.canvas"
   ]
 }
