@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Como tomar notas de maneira inteligente.md",
+                "file": "42/MiniLibX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Como tomar notas de maneira inteligente"
+              "title": "MiniLibX"
             }
           }
         ]
@@ -175,10 +175,14 @@
   },
   "active": "999b57ddf9cb9100",
   "lastOpenFiles": [
-    "42/Rank2/So long.md",
-    "z - files/image-20250110-144255.piskel",
-    "42/Rank2/Push-Swap.md",
+    "42/Rank1/Born2beroot.md",
+    "42/MiniLibX.md",
+    "42/Rank2/Rank2.md",
+    "42/Rank2/Projects",
     "Como tomar notas de maneira inteligente.md",
+    "42/Rank2/Projects/So long.md",
+    "z - files/image-20250110-144255.piskel",
+    "42/Rank2/Projects/Push-Swap.md",
     "Princípios.md",
     "Linux/wc.md",
     "42/Conexões 42",
@@ -201,8 +205,6 @@
     "42/Conexões 42/Workshop - Metodologias ágeis.md",
     "42/Conexões 42/Workshop - Currículo.md",
     "Math/Getent.md",
-    "Linux/Grupos.md",
-    "42/Rank1/Born2beroot.md",
     "42/Rank2",
     "42/Rank1",
     "z - files/Pasted image 20241112182721.png",
@@ -214,7 +216,6 @@
     "Algorithm and Data Structures",
     "Computing",
     "z - files/Screenshot from 2024-11-12 18-01-30.png",
-    "Linux",
     "Untitled.canvas"
   ]
 }
