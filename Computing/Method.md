@@ -1,0 +1,2 @@
+# C# 
+In [[Csharp]] a function within a class is referred to as a [[Method]]. Each method can have zero or more parameters. All parameters must be explicitly typed, there is no type inference for parameters. Similarly, the return type must also be made explicit. Values are returned from methods using the `return` keyword. To allow a method to be called by code in other files, the `public` access modifier must be added.
