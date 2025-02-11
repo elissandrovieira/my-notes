@@ -6,3 +6,4 @@
 - [[Tuples]]
 - [[If Statements]]
 - [[Numbers]]
+	- [[LINQ]]

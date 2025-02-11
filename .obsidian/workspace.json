@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Csharp/Courses/Exercism/0 - Exercism.md",
+                "file": "LINQ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0 - Exercism"
+              "title": "LINQ"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "right": {
     "id": "57b771ae25433760",
@@ -177,8 +176,9 @@
   },
   "active": "b0a442eee9e360f2",
   "lastOpenFiles": [
-    "Computing/Numbers.md",
     "Learning/Csharp/Courses/Exercism/0 - Exercism.md",
+    "Computing/Numbers.md",
+    "LINQ.md",
     "Computing/Tuples.md",
     "Computing/If Statements.md",
     "Computing/Extension Methods.md",
@@ -208,7 +208,6 @@
     "Linux/TCP.md",
     "Linux/IP.md",
     "42/Conexões 42/Insights.md",
-    "42/Hackathon 42 + Vale/Hackaton Vale.md",
     "42/Hackathon 42 + Vale",
     "42/Rank2",
     "42/Rank1",
