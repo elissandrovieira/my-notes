@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LINQ.md",
+                "file": "Nullability.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LINQ"
+              "title": "Nullability"
             }
           }
         ]
@@ -176,9 +176,17 @@
   },
   "active": "b0a442eee9e360f2",
   "lastOpenFiles": [
-    "Learning/Csharp/Courses/Exercism/0 - Exercism.md",
-    "Computing/Numbers.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Nullability.md",
     "LINQ.md",
+    "Learning/Csharp/Courses/Exercism/0 - Exercism.md",
+    "42/Rank2/Rank2.md",
+    "42/Rank2/Projects/So long.md",
+    "42/Rank2/Projects/Push-Swap.md",
+    "42/Rank2/Projects",
+    "42/MiniLibX.md",
+    "Computing/Numbers.md",
     "Computing/Tuples.md",
     "Computing/If Statements.md",
     "Computing/Extension Methods.md",
@@ -199,15 +207,8 @@
     "Learning",
     "Programming Languages.md",
     "Como tomar notas de maneira inteligente.md",
-    "42/Rank2/So long.md",
     "z - files/image-20250110-144255.piskel",
-    "42/Rank2/Push-Swap.md",
-    "Princípios.md",
-    "Linux/wc.md",
     "42/Conexões 42",
-    "Linux/TCP.md",
-    "Linux/IP.md",
-    "42/Conexões 42/Insights.md",
     "42/Hackathon 42 + Vale",
     "42/Rank2",
     "42/Rank1",
@@ -215,7 +216,6 @@
     "z - files/Pasted image 20241112182644.png",
     "z - files/Pasted image 20241112182710.png",
     "z - files/Pasted image 20241112182700.png",
-    "z - files",
     "z - files/Screenshot from 2024-11-12 18-01-30.png",
     "Untitled.canvas"
   ]
