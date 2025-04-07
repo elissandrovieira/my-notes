@@ -158,12 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -211,7 +212,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "b25de331b520a982",
+  "active": "3ef84146fd20e4a0",
   "lastOpenFiles": [
     "Untitled.md",
     "Untitled 1.md",
