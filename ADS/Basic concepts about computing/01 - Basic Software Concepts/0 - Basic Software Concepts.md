@@ -1,0 +1,5 @@
+- [[Software]]
+- [[Algorithm]]
+- [[Programming Languages]] 
+- [[Basic Software]]
+- [[Software Life Cycle]]
