@@ -5,18 +5,68 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:42  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Computing  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:Learning  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431511
+      }
+    },
+    {
+      "query": "path:Linux  ",
+      "color": {
+        "a": 1,
+        "rgb": 7885536
+      }
+    },
+    {
+      "query": "path:Math  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701214
+      }
+    },
+    {
+      "query": "path:\"Algorithm and Data Structures\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 2700220
+      }
+    },
+    {
+      "query": "path:Thoughts  ",
+      "color": {
+        "a": 1,
+        "rgb": 9635797
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.33776041666667,
-  "lineSizeMultiplier": 1.00598958333333,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "centerStrength": 0.7109375,
+  "repelStrength": 10.6770833333333,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.6666666666666666,
+  "linkDistance": 168,
+  "scale": 0.29629629629629595,
   "close": true
 }
