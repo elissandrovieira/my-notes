@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6665cd936e253b5b",
+        "id": "8543750f7a2694ed",
         "type": "tabs",
         "children": [
           {
-            "id": "07849b814b7b0eec",
+            "id": "f6d16dd051ac3dc5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Csharp/Courses/Exercism/0 - Exercism.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0 - Exercism"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Getent.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Getent"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Getent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Getent"
+              "title": "Outgoing links"
             }
           },
           {
@@ -128,7 +122,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -140,10 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Getent.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Getent"
+              "title": "Outline"
             }
           },
           {
@@ -152,11 +150,12 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -174,20 +173,31 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "07849b814b7b0eec",
+  "active": "f6d16dd051ac3dc5",
   "lastOpenFiles": [
-    "Computing/Strings.md",
-    "Learning/Csharp/Courses/Exercism/0 - Exercism.md",
+    "Computing/Functions.md",
+    "0 - Exercism - Python.md",
+    "Learning/Python/Python.md",
+    "2025-04-21.md",
+    "Basic - Python.md",
+    "Computing/Variables and constants.md",
+    "Pasted image 20250218222318.png",
+    "Learning/Courses/Exercism/Csharp/Basics.md",
+    "Learning/Courses/Exercism/Csharp/0 - Exercism.md",
+    "Learning/Courses/Exercism/Python",
+    "Computing/Tuples.md",
     "Computing/Booleans.md",
-    "Learning/Csharp/Courses/Exercism/Basics.md",
-    "Learning/Csharp/Courses/Fundamentos do C Sharp.md",
+    "Computing/Method.md",
+    "Learning/Courses/Exercism/Csharp",
+    "Learning/Csharp/Csharp.md",
+    "Learning/Python",
+    "Computing/Strings.md",
+    "Learning/Courses/Exercism/Csharp/Fundamentos do C Sharp.md",
     "Nullability.md",
     "LINQ.md",
     "Computing/Numbers.md",
     "Computing/If Statements.md",
-    "Computing/Tuples.md",
     "Computing/Extension Methods.md",
-    "Computing/Method.md",
     "Untitled 2.md",
     "42/Rank1/Born2beroot.md",
     "Thoughts/Princípios.md",
@@ -198,30 +208,19 @@
     "42/Rank3/Rank3.md",
     "42/Rank3/Philosophers",
     "42/Rank3",
-    "Semana Minishell/10 - 03 - 2025.md",
-    "ADS/Basic concepts about computing/03 - Basic Computational System/0 - Basic Computational System.md",
     "Semana Minishell",
     "ADS/Basic concepts about computing/Untitled",
-    "Performance Issues.md",
     "Pasted image 20250218222730.png",
     "Pasted image 20250218222614.png",
-    "Pasted image 20250218222318.png",
     "Pasted image 20250218222258.png",
-    "Fundamentals of the Instruction Cycle.md",
-    "Embedded systems.md",
     "Pasted image 20250218220738.png",
     "Pasted image 20250218212316.png",
-    "ADS/Basic concepts about computing/01 - Basic Software Concepts/0 - Basic Software Concepts.md",
-    "ADS/Basic concepts about computing/01 - Basic Software Concepts/Software Life Cycle.md",
     "Pasted image 20250218165942.png",
     "Pasted image 20250218165313.png",
     "ADS/Basic concepts about computing/03 - Basic Computational System",
     "Pasted image 20250218002313.png",
     "Pasted image 20250218001958.png",
     "ADS/Basic concepts about computing/02 - Basic Web and Networks concepts",
-    "ADS/Basic concepts about computing/01 - Basic Software Concepts",
-    "ADS/Basic concepts about computing",
-    "ADS",
     "Untitled.canvas"
   ]
 }

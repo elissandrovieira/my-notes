@@ -1,0 +1,3 @@
+- [[Basic - Python]]
+- [[Variables and constants]]
+- Functions
