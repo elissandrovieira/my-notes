@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8543750f7a2694ed",
+        "id": "73f2f558edc874d0",
         "type": "tabs",
         "children": [
           {
-            "id": "f6d16dd051ac3dc5",
+            "id": "b574727e376e96d5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Computing/Programming/OOP/Basic about OOP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Basic about OOP"
             }
           }
         ]
@@ -90,8 +94,9 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Redesign/Projetos/DASA - Diagnostico/Descrição dos processos.md",
                 "collapseAll": false,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Descrição dos processos"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Redesign/Projetos/DASA - Diagnostico/Descrição dos processos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Descrição dos processos"
             }
           },
           {
@@ -122,7 +128,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false,
+                "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -136,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Computing/Programming/OOP/Basic about OOP.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Basic about OOP"
             }
           },
           {
@@ -155,12 +162,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 471.5,
-    "collapsed": true
+    "width": 249.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,54 +179,54 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "f6d16dd051ac3dc5",
+  "active": "b574727e376e96d5",
   "lastOpenFiles": [
-    "Computing/Functions.md",
-    "0 - Exercism - Python.md",
-    "Learning/Python/Python.md",
-    "2025-04-21.md",
-    "Basic - Python.md",
-    "Computing/Variables and constants.md",
-    "Pasted image 20250218222318.png",
-    "Learning/Courses/Exercism/Csharp/Basics.md",
+    "C.md",
+    "Computing/Programming/OOP/Basic about OOP.md",
+    "Linux/Getent.md",
+    "Computing/Programming/OOP",
+    "Computing/Programming",
+    "ADS/Basic concepts about computing/01 - Basic Software Concepts/Algorithm.md",
+    "Learning/Java/Basic References and courses.md",
+    "Computing/Nullability.md",
     "Learning/Courses/Exercism/Csharp/0 - Exercism.md",
-    "Learning/Courses/Exercism/Python",
-    "Computing/Tuples.md",
-    "Computing/Booleans.md",
-    "Computing/Method.md",
-    "Learning/Courses/Exercism/Csharp",
     "Learning/Csharp/Csharp.md",
-    "Learning/Python",
-    "Computing/Strings.md",
-    "Learning/Courses/Exercism/Csharp/Fundamentos do C Sharp.md",
-    "Nullability.md",
-    "LINQ.md",
-    "Computing/Numbers.md",
-    "Computing/If Statements.md",
-    "Computing/Extension Methods.md",
+    "Computing/AI/Prompt engineering/DSP.md",
+    "Computing/Performance Issues.md",
+    "Untitled 1.md",
+    "Untitled.md",
     "Untitled 2.md",
-    "42/Rank1/Born2beroot.md",
-    "Thoughts/Princípios.md",
-    "Thoughts/Como tomar notas de maneira inteligente.md",
-    "Thoughts",
-    "Computing/Threads, mutexes and concurrent programming in C.md",
-    "42/Rank3/Philosophers/Philosophers.md",
-    "42/Rank3/Rank3.md",
-    "42/Rank3/Philosophers",
-    "42/Rank3",
-    "Semana Minishell",
-    "ADS/Basic concepts about computing/Untitled",
-    "Pasted image 20250218222730.png",
-    "Pasted image 20250218222614.png",
-    "Pasted image 20250218222258.png",
-    "Pasted image 20250218220738.png",
-    "Pasted image 20250218212316.png",
-    "Pasted image 20250218165942.png",
-    "Pasted image 20250218165313.png",
-    "ADS/Basic concepts about computing/03 - Basic Computational System",
-    "Pasted image 20250218002313.png",
-    "Pasted image 20250218001958.png",
-    "ADS/Basic concepts about computing/02 - Basic Web and Networks concepts",
+    "Learning/Csharp/LINQ.md",
+    "Computing/Embedded systems.md",
+    "Computing/Fundamentals of the Instruction Cycle.md",
+    "Computing/Computer evolution.md",
+    "z - files/ReAct.jpg",
+    "2025-04-21.md",
+    "z - files/RAG.jpg",
+    "z - files/Pasted image 20250218001958.png",
+    "z - files/COT.jpg",
+    "Computing/Variables and constants.md",
+    "Learning/Python/0 - Exercism - Python.md",
+    "Learning/Python/Basic - Python.md",
+    "Learning/Python/Python.md",
+    "Learning/Java",
+    "Computing/AI/Prompt engineering/Prompt engineering aproachs.md",
+    "Computing/AI/Prompt engineering/ReAct.md",
+    "Computing/AI/Prompt engineering/COT.md",
+    "Computing/AI/Prompt engineering/RAG.md",
+    "Computing/AI/Prompt engineering",
+    "Computing/AI",
+    "Redesign/Projetos/DASA - Diagnostico",
+    "Redesign/Projetos",
+    "Redesign",
+    "z - files/Pasted image 20250218222318.png",
+    "Learning/Courses/Exercism/Python",
+    "Learning/Courses/Exercism/Csharp",
+    "z - files/Pasted image 20250218222730.png",
+    "z - files/Pasted image 20250218222614.png",
+    "z - files/Pasted image 20250218222258.png",
+    "z - files/Pasted image 20250218220738.png",
+    "z - files/Pasted image 20250218212316.png",
     "Untitled.canvas"
   ]
 }
