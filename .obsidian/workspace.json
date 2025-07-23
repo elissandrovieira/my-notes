@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8543750f7a2694ed",
+        "id": "44da39b15e0d5341",
         "type": "tabs",
         "children": [
           {
-            "id": "f6d16dd051ac3dc5",
+            "id": "0ced03c534746a1a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "RPA/Courses/Automation Developer Associate Training (v2023.10)/0 - Learning Plan AD Associate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0 - Learning Plan AD Associate"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 413.5
   },
   "right": {
     "id": "57b771ae25433760",
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "RPA/Courses/Automation Developer Associate Training (v2023.10)/Mastering GitHub Workflow.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Mastering GitHub Workflow"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "RPA/Courses/Automation Developer Associate Training (v2023.10)/Mastering GitHub Workflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Mastering GitHub Workflow"
             }
           },
           {
@@ -136,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "RPA/Courses/Automation Developer Associate Training (v2023.10)/Mastering GitHub Workflow.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Mastering GitHub Workflow"
             }
           },
           {
@@ -155,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -173,54 +180,54 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "f6d16dd051ac3dc5",
+  "active": "0ced03c534746a1a",
   "lastOpenFiles": [
-    "Computing/Functions.md",
-    "0 - Exercism - Python.md",
-    "Learning/Python/Python.md",
-    "2025-04-21.md",
-    "Basic - Python.md",
-    "Computing/Variables and constants.md",
-    "Pasted image 20250218222318.png",
-    "Learning/Courses/Exercism/Csharp/Basics.md",
-    "Learning/Courses/Exercism/Csharp/0 - Exercism.md",
+    "Learning/Intelligent Automation/Mês 1 - Fundamentos Técnicos + UiPath sólido.md",
+    "Learning/Intelligent Automation/0-Roadmap.md",
+    "Mês 4 - Projetos reais + Boas práticas.md",
+    "RPA/Courses/Automation Developer Associate Training (v2023.10)/0 - Learning Plan AD Associate.md",
+    "Mês 5–6 - Portfólio e LinkedIn Estratégico.md",
+    "Mês 3 - Introdução a Desenvolvimento Integrado.md",
+    "Mês 2 - UiPath Profissional + APIs.md",
+    "RPA/Courses/Automation Developer Associate Training (v2023.10)/Workflow Analyzer in Studio.md",
+    "Introduction to Workflow Analyzer in Studio.md",
+    "Learning/Intelligent Automation",
+    "Pasted image 20250505161029.png",
+    "Pasted image 20250505161012.png",
+    "Pasted image 20250505160957.png",
+    "Pasted image 20250505160943.png",
+    "Pasted image 20250505160930.png",
+    "Pasted image 20250505160918.png",
+    "Pasted image 20250505155409.png",
+    "RPA/Courses/Automation Developer Associate Training (v2023.10)/Version Control Systems Integration in Studio.md",
+    "RPA/Courses/Automation Developer Associate Training (v2023.10)/GIT best practices.md",
+    "RPA/Courses/Automation Developer Associate Training (v2023.10)/Exploring Git.md",
+    "Computing/GIT.md",
+    "RPA/Courses/Automation Developer Associate Training (v2023.10)/Mastering GitHub Workflow.md",
+    "Pasted image 20250505152411.png",
+    "Pasted image 20250505151825.png",
+    "Pasted image 20250505151745.png",
+    "RPA/Courses/Automation Developer Associate Training (v2023.10)/Introduction to Version Control System.md",
+    "Computing/Version Control System.md",
+    "Version.md",
+    "[[Version.md",
+    "RPA/Courses/Automation Developer Associate Training (v2023.10)/Object Repository in Studio.md",
+    "RPA/Courses/Automation Developer Associate Training (v2023.10)/UiPath Integration Service Overview.md",
+    "RPA/Courses/Automation Developer Associate Training (v2023.10)/Overview of Connector Builder.md",
+    "RPA/Courses/Automation Developer Associate Training (v2023.10)/Running the automation.md",
+    "RPA/Courses/Automation Developer Associate Training (v2023.10)/Configuring Triggers.md",
+    "RPA/Courses/Automation Developer Associate Training (v2023.10)/Using Integrations in UiPath Studio.md",
+    "RPA/Courses/Automation Developer Associate Training (v2023.10)/Connections - setting up the required Connectors.md",
+    "RPA/Courses/Automation Developer Associate Training (v2023.10)/Process overview.md",
+    "Queue_Statuses.pdf",
+    "RPA/Courses/Automation Developer Associate Training (v2023.10)",
+    "RPA/Courses",
+    "RPA",
     "Learning/Courses/Exercism/Python",
-    "Computing/Tuples.md",
-    "Computing/Booleans.md",
-    "Computing/Method.md",
     "Learning/Courses/Exercism/Csharp",
-    "Learning/Csharp/Csharp.md",
     "Learning/Python",
-    "Computing/Strings.md",
-    "Learning/Courses/Exercism/Csharp/Fundamentos do C Sharp.md",
-    "Nullability.md",
-    "LINQ.md",
-    "Computing/Numbers.md",
-    "Computing/If Statements.md",
-    "Computing/Extension Methods.md",
-    "Untitled 2.md",
-    "42/Rank1/Born2beroot.md",
-    "Thoughts/Princípios.md",
-    "Thoughts/Como tomar notas de maneira inteligente.md",
     "Thoughts",
-    "Computing/Threads, mutexes and concurrent programming in C.md",
-    "42/Rank3/Philosophers/Philosophers.md",
-    "42/Rank3/Rank3.md",
     "42/Rank3/Philosophers",
-    "42/Rank3",
-    "Semana Minishell",
-    "ADS/Basic concepts about computing/Untitled",
-    "Pasted image 20250218222730.png",
-    "Pasted image 20250218222614.png",
-    "Pasted image 20250218222258.png",
-    "Pasted image 20250218220738.png",
-    "Pasted image 20250218212316.png",
-    "Pasted image 20250218165942.png",
-    "Pasted image 20250218165313.png",
-    "ADS/Basic concepts about computing/03 - Basic Computational System",
-    "Pasted image 20250218002313.png",
-    "Pasted image 20250218001958.png",
-    "ADS/Basic concepts about computing/02 - Basic Web and Networks concepts",
     "Untitled.canvas"
   ]
 }
