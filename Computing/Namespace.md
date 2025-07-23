@@ -1,4 +1,4 @@
-In my limited vision, Namespaces in C# work - in some way - like the C [[Header files]] (.h).
+In my limited vision, Namespaces in C# work - in some way - like the C [[Header files]] (.h). In the Java [[Syntax]], the Namespaces are called Packages.
 
 Both work to group files in a sort of scope (at least in the header files case), to use functions, variables, structures, classes (in the C# case), and other things between them. I ask for ChatGPT talk about this point, and this is it answer:
 
