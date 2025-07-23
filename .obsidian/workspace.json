@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RPA/Courses/Automation Developer Associate Training (v2023.10)/0 - Learning Plan AD Associate.md",
+                "file": "Learning/Java/Syntax.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0 - Learning Plan AD Associate"
+              "title": "Syntax"
             }
           }
         ]
@@ -180,8 +180,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "2369f95ef3221b4e",
+  "active": "0ced03c534746a1a",
   "lastOpenFiles": [
+    "Learning/Java/Java.md",
     "Untitled.md",
     "z - files/ReAct.jpg",
     "z - files/RAG.jpg",
@@ -196,7 +197,6 @@
     "Learning/Python/0 - Exercism - Python.md",
     "Learning/Java/Syntax.md",
     "Learning/Java/Basic References and courses.md",
-    "Learning/Java/Java.md",
     "Learning/Java",
     "Learning/Csharp/LINQ.md",
     "Computing/Programming/OOP/Basic about OOP.md",

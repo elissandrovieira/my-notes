@@ -360,11 +360,71 @@ Is a powerful framework that allow you to work with collections(groups of data) 
 Each interface has multiple implementations, each with different performance and ordering characteristics:
 
 - **ArrayList**: Fast index-based access; resizes by copying the underlying array.
-    
+```java
+List<String> mylist = new ArrayList<>();
+
+//Add
+mylist.add("Elissandro");
+mylist.add("Luana");
+mylist.add("Arthur");
+mylist.add("Arthur"); //Work!
+
+//print list
+System.out.println(mylist);
+```
+
 - **LinkedList**: Fast for inserting/removing elements in the middle; slower index-based access.
-    
+```java
+
+//Linked list as a queue
+Queue<Strings> myqueue = new LinkedList<>();
+
+//Add
+myqueue.add("Elissandro");
+myqueue.add("Luana");
+myqueue.add("Arthur");
+
+//get the first node and remove it from the list
+myqueue.poll();
+
+//get the first node without remove it from the list
+myqueue.peek();
+
+//print list
+System.out.println(myset);
+
+//------
+//Linked list as a linked list
+LinkedList<Strings> mylinkedlist = new LinkedList<>();
+
+//Add
+mylinkedlist.add("Elissandro");
+mylinkedlist.addFirst("Luana");
+mylinkedlist.addLast("Arthur");
+
+//Get
+mylinkedlist.getFirst();
+mylinkedlist.getLast();
+
+//Poll
+mylinkedlist.pollFirst();
+mylinkedlist.pollLast();
+```
+
 - **HashSet**: No ordering guarantee; very fast for searches(O(1)) and insertions (uses hash table).
-    
+```java
+Set<Strings> myset = new HashSet<>();
+
+//Add
+myset.add("Elissandro");
+myset.add("Luana");
+myset.add("Arthur");
+myset.add("Arthur"); //don't work!
+
+//print list
+System.out.println(myset);
+```
+
 - **TreeSet**: Keeps elements sorted (uses red-black tree); O(log n) for search/insertion.
     
 - **HashMap**: Fast key-value mapping with no guaranteed order.
