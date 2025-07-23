@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "44da39b15e0d5341",
+        "id": "43b68bdb5f62577a",
         "type": "tabs",
         "children": [
           {
-            "id": "0ced03c534746a1a",
+            "id": "30651f674922e098",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Java/Syntax.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Syntax"
+              "title": "New tab"
             }
           }
         ]
@@ -180,13 +176,28 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "0ced03c534746a1a",
+  "active": "2369f95ef3221b4e",
   "lastOpenFiles": [
+    "[[Version.md",
+    "RPA/Visual Basic.md",
+    "RPA/Introduction to Workflow Analyzer in Studio.md",
+    "RPA/Mês 4 - Projetos reais + Boas práticas.md",
+    "RPA/Mês 3 - Introdução a Desenvolvimento Integrado.md",
+    "RPA/Mês 2 - UiPath Profissional + APIs.md",
+    "z - files/Queue_Statuses.pdf",
+    "z - files/Pasted image 20250505161029.png",
+    "z - files/Pasted image 20250505071710.png",
+    "z - files/Pasted image 20250505064549.png",
+    "z - files/Pasted image 20250505064519.png",
+    "z - files/Pasted image 20250505063228.png",
+    "z - files/Pasted image 20250505062511.png",
+    "z - files/Pasted image 20250505004305.png",
+    "z - files/Pasted image 20250505004210.png",
+    "z - files/Pasted image 20250505004200.png",
+    "z - files/Pasted image 20250505002750.png",
+    "Learning/Java/Syntax.md",
     "Learning/Java/Java.md",
-    "Untitled.md",
-    "z - files/ReAct.jpg",
-    "z - files/RAG.jpg",
-    "z - files/COT.jpg",
+    "RPA/Untitled.md",
     "Redesign/Projetos/DASA - Diagnostico/Execução Robôs.md",
     "Redesign/Projetos/DASA - Diagnostico/Descrição dos processos.md",
     "Redesign/Projetos/DASA - Diagnostico",
@@ -195,7 +206,6 @@
     "Linux/Getent.md",
     "Learning/Python/Basic - Python.md",
     "Learning/Python/0 - Exercism - Python.md",
-    "Learning/Java/Syntax.md",
     "Learning/Java/Basic References and courses.md",
     "Learning/Java",
     "Learning/Csharp/LINQ.md",
@@ -211,23 +221,9 @@
     "Computing/Computer Structure.md",
     "Computing/Computer Function.md",
     "Computing/AI/Prompt engineering/ReAct.md",
-    "Computing/AI/Prompt engineering/RAG.md",
-    "Computing/AI/Prompt engineering/Prompt engineering aproachs.md",
-    "Computing/AI/Prompt engineering/DSP.md",
-    "Computing/AI/Prompt engineering/COT.md",
     "Computing/AI/Prompt engineering",
     "Computing/AI",
-    "Learning/Intelligent Automation/Mês 1 - Fundamentos Técnicos + UiPath sólido.md",
-    "Learning/Intelligent Automation/0-Roadmap.md",
     "Learning/Intelligent Automation",
-    "Pasted image 20250505161029.png",
-    "Pasted image 20250505161012.png",
-    "Pasted image 20250505160957.png",
-    "Pasted image 20250505160943.png",
-    "Pasted image 20250505160930.png",
-    "Pasted image 20250505160918.png",
-    "Pasted image 20250505155409.png",
-    "Queue_Statuses.pdf",
     "Untitled.canvas"
   ]
 }
