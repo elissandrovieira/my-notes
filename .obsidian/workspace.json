@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Redesign/Projetos/DASA - Diagnostico/Execução Robôs.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing/Programming/OOP/Basic about OOP.md",
+                "file": "Redesign/Projetos/DASA - Diagnostico/Execução Robôs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Basic about OOP"
+              "title": "Outline of Execução Robôs"
             }
           },
           {
@@ -166,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5,
-    "collapsed": true
+    "width": 249.5
   },
   "left-ribbon": {
     "hiddenItems": {
