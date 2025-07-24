@@ -464,6 +464,7 @@ So we can do this:
 public class Painter<T extends Paintable> {
     private T item;
     
+<<<<<<< HEAD
     public void paint() {
         item.paint();
     }
@@ -491,3 +492,7 @@ PersonA.age();
 ```
 
 Records are most used when we create DTO's(Data Transfer Objects) or POJO's(Plain old Java Objects).
+=======
+- **Arrays** — Some helper methods for "array collections" (e.g., converting arrays to lists).
+
+>>>>>>> b335259eec8361bc76732ad71ba1cef39f289caf
