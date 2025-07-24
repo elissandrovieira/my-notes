@@ -437,5 +437,57 @@ System.out.println(myset);
 **Utilities:**
 
 - **Collections** (utility class) — Static methods for sorting, searching, synchronization, etc.
-    
 - **Arrays** — Some helper methods for "array collections" (e.g., converting arrays to lists).
+
+# Generics
+It allow you to write code that works with any type in a type-safe way. Instead of using `Object` and relying on casting, generics let the compiler ensure that you’re using the correct types. This makes your code safer and clearer.
+
+```java
+List<String> names = new ArrayList<>();
+```
+
+## Bounded Generics
+
+You can **restrict** the types that can be used with generics using bounds, like`T extends SomeClassOrInterface`.
+
+This means the type `T` must be a subclass of `SomeClassOrInterface`, or implement that interface.
+
+```java
+public interface Paintable {
+    void paint();
+}
+```
+
+So we can do this:
+
+```java
+public class Painter<T extends Paintable> {
+    private T item;
+    
+    public void paint() {
+        item.paint();
+    }
+}
+```
+
+# Records
+A `record` is **an immutable class by default**.
+When you declare a `record`, the compiler automatically:
+
+- Creates **`private final` fields** for each component.
+- Generates **getters**, **`equals()`**, **`hashCode()`**, and **`toString()`** methods.
+- Does **not** create setters — meaning you can't change the values after the object is created.
+
+```java
+//declaration
+public record Person(String name, int age) {}
+
+//implemantation
+Person PersonA = new Person("Arthur",1);
+
+//getters
+PersonA.name();
+PersonA.age();
+```
+
+Records are most used when we create DTO's(Data Transfer Objects) or POJO's(Plain old Java Objects).
