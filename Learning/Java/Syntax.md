@@ -439,3 +439,4 @@ System.out.println(myset);
 - **Collections** (utility class) — Static methods for sorting, searching, synchronization, etc.
     
 - **Arrays** — Some helper methods for "array collections" (e.g., converting arrays to lists).
+
