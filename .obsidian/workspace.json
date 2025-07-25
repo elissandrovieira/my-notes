@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Java/Java.md",
+                "file": "Learning/Java/Syntax.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java"
+              "title": "Syntax"
             }
           }
         ]
@@ -182,6 +182,7 @@
   },
   "active": "dde7141053de5547",
   "lastOpenFiles": [
+    "Learning/Java/Java.md",
     "Learning/Java/Syntax.md",
     "Untitled.md",
     "[[Version.md",
@@ -201,7 +202,6 @@
     "z - files/Pasted image 20250505004210.png",
     "z - files/Pasted image 20250505004200.png",
     "z - files/Pasted image 20250505002750.png",
-    "Learning/Java/Java.md",
     "RPA/Untitled.md",
     "Redesign/Projetos/DASA - Diagnostico/Execução Robôs.md",
     "Redesign/Projetos/DASA - Diagnostico/Descrição dos processos.md",
