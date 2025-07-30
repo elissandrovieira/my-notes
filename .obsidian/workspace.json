@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redesign/Projetos/DASA - Diagnostico/Execução Robôs.md",
+                "file": "Redesign/Projetos/DASA - Diagnostico/Descrição dos processos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Execução Robôs"
+              "title": "Descrição dos processos"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 299.5,
+    "collapsed": true
   },
   "right": {
     "id": "57b771ae25433760",
@@ -182,10 +183,10 @@
   },
   "active": "bd807597a22134fc",
   "lastOpenFiles": [
+    "Redesign/Projetos/DASA - Diagnostico/Execução Robôs.md",
     "Redesign/Projetos/DASA - Diagnostico/Descrição dos processos.md",
     "42/42.md",
     "Untitled 1.md",
-    "Redesign/Projetos/DASA - Diagnostico/Execução Robôs.md",
     "Learning/Java/Spring/Basic About.md",
     "Learning/Java/Spring/Spring Directory Project Structure.md",
     "Learning/Java/Spring/How to initialize Spring projects.md",
