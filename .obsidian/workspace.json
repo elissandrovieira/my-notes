@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redesign/Projetos/DASA - Diagnostico/Descrição dos processos.md",
+                "file": "Redesign/Projetos/DASA - Diagnostico/Execução Robôs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Descrição dos processos"
+              "title": "Execução Robôs"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "right": {
     "id": "57b771ae25433760",
@@ -183,8 +182,9 @@
   },
   "active": "bd807597a22134fc",
   "lastOpenFiles": [
-    "Redesign/Projetos/DASA - Diagnostico/Execução Robôs.md",
     "Redesign/Projetos/DASA - Diagnostico/Descrição dos processos.md",
+    "Untitled.md",
+    "Redesign/Projetos/DASA - Diagnostico/Execução Robôs.md",
     "42/42.md",
     "Untitled 1.md",
     "Learning/Java/Spring/Basic About.md",
@@ -195,7 +195,6 @@
     "Learning/Csharp/Csharp.md",
     "Computing/Programming/OOP/Basic about OOP.md",
     "Learning/Java/Java.md",
-    "Untitled.md",
     "z - files/Queue_Statuses.pdf",
     "z - files/Pasted image 20250505161029.png",
     "z - files/Pasted image 20250505161012.png",

@@ -62,7 +62,7 @@ n.remove("Elissandro");
 n.size();
 ```
 
-Is important to remember the **Array List don't work with primitive values**. To use them in Array Lists, the **wrapper classes** - that are complex types also - are needed:
+Is important to remember the **Array List don't work with primitive values**. To use them in Array Lists, the **wrapper classes**, a type of class that wrap(embrulha) a primitive type - and  are complex types also - are needed:
 
 | **Primitive** | **Wrapper Class** |
 | ------------- | ----------------- |
