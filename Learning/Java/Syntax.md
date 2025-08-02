@@ -249,7 +249,7 @@ public class Main {
 }
 ```
 # Access Modifiers
-
+ 
 | `public`    | Is accessible in all program, even in another packages               |
 | ----------- | -------------------------------------------------------------------- |
 | `private`   | Only visible inside a parent class                                   |
