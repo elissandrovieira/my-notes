@@ -19,11 +19,11 @@
 - **BR_R03_ExamesZeradosPaisFilhos**
 	- Todos os domingos as 00:00 ok  
 - **BR_R28_EmailDePendenciasAjusteContratual**
-	- Sexta-feira de 15 em 15 dias ok  
+	- Sexta-feira de 15 em 15 dias ok
 - **BR_R35_TratativasDaBaseDoGliese**
-	- As 04:00, entre os dias 7 e 9 do mês  
+	- As 04:00, entre os dias 7 e 9 do mês
 - **BR_R036_CorrecaoGrupoPagamento**
-	- De segunda a sábado as 03:00 ok  
+	- De segunda a sábado as 03:00 ok
 - **BR_R29_ConferenciaPagamentos**
 	- De terça a sábado as 08:00 ok  
 - **BR_R54 - Expansão de itens não estocáveis**

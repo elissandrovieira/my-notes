@@ -248,14 +248,17 @@ public class Main {
     }  
 }
 ```
-# Access Modifiers
- 
+# Modifiers
+
+## 1- Access Modifiers
+The Access Modifiers control visibility.
+
 | `public`    | Is accessible in all program, even in another packages               |
 | ----------- | -------------------------------------------------------------------- |
 | `private`   | Only visible inside a parent class                                   |
 | `protected` | Visible in the package or in sub-classes                             |
 | `default`   | Is used when none access modifier is declares. It is package private |
-## Where is this used?
+### Where is this used?
 
 | Element                                                | `public` | `protected` | `default` | `private` |
 | ------------------------------------------------------ | -------- | ----------- | --------- | --------- |
@@ -264,6 +267,19 @@ public class Main {
 | **Methods**                                            | ✅        | ✅           | ✅         | ✅         |
 | **Atributtes**                                         | ✅        | ✅           | ✅         | ✅         |
 | **Constructors**                                       | ✅        | ✅           | ✅         | ✅         |
+## 2- Non-Access Modifiers
+Non-Access Modifiers affect how something behaves.
+
+|                |                                 |                                               |
+| -------------- | ------------------------------- | --------------------------------------------- |
+| `static`       | methods, fields, nested classes | Belongs to the class, not to instances        |
+| `final`        | classes, methods, fields        | Prevents change or inheritance                |
+| `abstract`     | classes, methods                | Must be extended or implemented               |
+| `synchronized` | methods, blocks                 | Thread-safe access                            |
+| `volatile`     | fields                          | Visible to all threads immediately            |
+| `transient`    | fields                          | Not serialized                                |
+| `native`       | methods                         | Implemented in another language (e.g., C/C++) |
+| `strictfp`     | classes, methods                | Enforces strict floating-point rules          |
 
 # Interfaces
 
