@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2806654436827b64",
+        "id": "eebce14a4e9c4f92",
         "type": "tabs",
         "children": [
           {
-            "id": "b1522ea929ecc208",
+            "id": "2f56df5246adee1b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,20 +176,21 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "b1522ea929ecc208",
+  "active": "2369f95ef3221b4e",
   "lastOpenFiles": [
+    "42/Semana Minishell/10 - 03 - 2025.md",
     "2025-09-11.md",
+    "Untitled.md",
+    "z - files/COT.jpg",
+    "Untitled 1.md",
     "Untitled 1.base",
     "Untitled.base",
     "Untitled.canvas",
     "Redesign/Projetos/DASA - Diagnostico/09/Teste chamados.md",
     "Redesign/Projetos/DASA - Diagnostico/09",
     "Redesign/Projetos/DASA - Diagnostico/Execução Robôs.md",
-    "Untitled 1.md",
-    "Untitled.md",
     "Redesign/Projetos/DASA - Diagnostico/Descrição dos processos.md",
     "Redesign/Projetos/DASA - Diagnostico.zip",
-    "z - files/COT.jpg",
     "Learning/Java/Spring/Spring Directory Project Structure.md",
     "Learning/Java/Basic References and courses.md",
     "Learning/Java/Spring/How to initialize Spring projects.md",
@@ -223,7 +224,6 @@
     "z - files/Pasted image 20250505155409.png",
     "z - files/Pasted image 20250505152411.png",
     "z - files/Pasted image 20250505151825.png",
-    "RPA/Courses/Automation Developer Associate Training (v2023.10)/Working with Orchestrator Resources as an Automation Developer.md",
-    "RPA/Courses/Automation Developer Associate Training (v2023.10)/Working with Local Files and Folders in Studio.md"
+    "RPA/Courses/Automation Developer Associate Training (v2023.10)/Working with Orchestrator Resources as an Automation Developer.md"
   ]
 }
