@@ -377,7 +377,7 @@ Each interface has multiple implementations, each with different performance and
 
 - **ArrayList**: Fast index-based access; resizes by copying the underlying array.
 ```java
-List<String> mylist = new ArrayList<>();
+List<String> mylist = new ArrayList<String>();
 
 //Add
 mylist.add("Elissandro");
