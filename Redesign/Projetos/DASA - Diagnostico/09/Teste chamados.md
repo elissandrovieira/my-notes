@@ -1,5 +1,5 @@
 - [x] Reembolso Paciente 
-- [ ] Reembolso Colaborador
-- [ ] Serviço Jurídico
-- [ ] Prestador Médico
-- [ ] Produto/Serviço
+- [x] Reembolso Colaborador
+- [x] Serviço Jurídico
+- [x] Prestador Médico
+- [x] Produto/Serviço

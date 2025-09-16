@@ -11,7 +11,7 @@
     - **Repository/Entity Manager:** Interface to persist, find, delete, and update objects.
     - **JPQL (Java Persistence Query Language):** A query language similar to SQL but works with entities, not tables.
 
-Think of JPA as the **rulebook or blueprint** for how Java apps interact with databases.
+Think of JPA as the **rulebook or [[Blueprint]]** for how Java apps interact with databases.
 
 ---
 
@@ -21,7 +21,7 @@ Think of JPA as the **rulebook or blueprint** for how Java apps interact with da
 
 - **Extra features beyond JPA:**
     - Caching (to improve performance)
-    - Lazy loading
+    - [[Lazy loading]]
     - Advanced mapping strategies
     - Support for some database-specific features
 
@@ -32,12 +32,12 @@ So if JPA is the **rulebook**, Hibernate is a **concrete player following those 
 
 ## Relationship Between Them
 
-|Aspect|JPA|Hibernate|
-|---|---|---|
-|Type|Specification/Interface|Implementation/Library|
-|Purpose|Standardize ORM in Java|Provide ORM functionality|
-|Requires|A JPA provider (like Hibernate)|Nothing else, it can implement JPA|
-|Extra features|No extra features|Yes, many optimizations|
+| Aspect         | JPA                             | Hibernate                          |
+| -------------- | ------------------------------- | ---------------------------------- |
+| Type           | Specification/Interface         | Implementation/Library             |
+| Purpose        | Standardize ORM in Java         | Provide ORM functionality          |
+| Requires       | A JPA provider (like Hibernate) | Nothing else, it can implement JPA |
+| Extra features | No extra features               | Yes, many optimizations            |
 
 ---
 

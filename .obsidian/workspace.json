@@ -4,20 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "eebce14a4e9c4f92",
+        "id": "5cc68275be577fd7",
         "type": "tabs",
         "children": [
           {
-            "id": "2f56df5246adee1b",
+            "id": "d254fbac36808e9a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Java/Spring/01 - Building a Srping backend project.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "01 - Building a Srping backend project"
+            }
+          },
+          {
+            "id": "61eaf517df47d27d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Java/Spring/Modules/Building Entities.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Building Entities"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,12 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Learning/Java/Spring/Modules/Building Entities.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Building Entities"
             }
           },
           {
@@ -176,45 +196,47 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "2369f95ef3221b4e",
+  "active": "61eaf517df47d27d",
   "lastOpenFiles": [
-    "42/Semana Minishell/10 - 03 - 2025.md",
+    "Learning/Java/JPA & Hibernate.md",
+    "Computing/Programming/Lazy loading.md",
+    "Languages/English/words/Blueprint.md",
     "2025-09-11.md",
-    "Untitled.md",
-    "z - files/COT.jpg",
-    "Untitled 1.md",
+    "z - files/blueprint@2x.jpg",
+    "Languages/English/words",
+    "Languages",
+    "Languages/English",
+    "Learning/Java/Spring/Modules/Building Entities.md",
+    "Learning/Java/Spring/01 - Building a Srping backend project.md",
+    "Learning/Java/Spring/Modules/Project Structure.md",
+    "Learning/Java/Spring/Modules/Spring Directory Project Structure.md",
+    "Learning/Java/Spring/Modules/Starting Spring projects.md",
+    "Learning/Java/Spring/Modules/Spring Web(Tomcat).md",
+    "Learning/Java/Spring/Modules/pom.xml.md",
+    "Learning/Java/Spring/Modules",
+    "Learning/Java/Spring/00 - Basic About.md",
     "Untitled 1.base",
     "Untitled.base",
-    "Untitled.canvas",
-    "Redesign/Projetos/DASA - Diagnostico/09/Teste chamados.md",
-    "Redesign/Projetos/DASA - Diagnostico/09",
+    "Learning/Java/Spring/Modules/Servlet Container.md",
+    "Learning/Csharp/Project Structure.md",
+    "Projects/Zettl.md",
+    "RPA/Orchestrator Overview for Automation Developers.md",
+    "RPA/Mês 5–6 - Portfólio e LinkedIn Estratégico.md",
+    "RPA/Mês 3 - Introdução a Desenvolvimento Integrado.md",
     "Redesign/Projetos/DASA - Diagnostico/Execução Robôs.md",
     "Redesign/Projetos/DASA - Diagnostico/Descrição dos processos.md",
+    "Redesign/Projetos/DASA - Diagnostico/09/Teste chamados.md",
+    "Untitled.md",
+    "42/Semana Minishell/10 - 03 - 2025.md",
+    "z - files/COT.jpg",
+    "Untitled 1.md",
+    "Untitled.canvas",
+    "Redesign/Projetos/DASA - Diagnostico/09",
     "Redesign/Projetos/DASA - Diagnostico.zip",
-    "Learning/Java/Spring/Spring Directory Project Structure.md",
     "Learning/Java/Basic References and courses.md",
-    "Learning/Java/Spring/How to initialize Spring projects.md",
-    "Learning/Java/Spring/Basic About.md",
-    "Learning/Java/JPA & Hibernate.md",
     "Learning/Docker/Introdução ao Docker.md",
-    "Projects/Zettl.md",
     "Learning/Docker",
     "Projects",
-    "Learning/Angular/Landing page.md",
-    "Computing/Programming/OOP/Basic about OOP.md",
-    "Learning/Java/Syntax.md",
-    "Learning/Java/Java.md",
-    "Learning/Java/Exercises/Phonebook.md",
-    "Computing/Threads, mutexes and concurrent programming in C.md",
-    "42/Rank3/Philosophers/Philosophers.md",
-    "Learning/Angular/init.md",
-    "Learning/Untitled.md",
-    "Learning/Angular",
-    "Learning/Java/Exercises",
-    "42/42.md",
-    "Learning/Java/Spring",
-    "Learning/Csharp/Csharp.md",
-    "z - files/Queue_Statuses.pdf",
     "z - files/Pasted image 20250505161029.png",
     "z - files/Pasted image 20250505161012.png",
     "z - files/Pasted image 20250505160957.png",
@@ -222,8 +244,6 @@
     "z - files/Pasted image 20250505160930.png",
     "z - files/Pasted image 20250505160918.png",
     "z - files/Pasted image 20250505155409.png",
-    "z - files/Pasted image 20250505152411.png",
-    "z - files/Pasted image 20250505151825.png",
-    "RPA/Courses/Automation Developer Associate Training (v2023.10)/Working with Orchestrator Resources as an Automation Developer.md"
+    "z - files/Pasted image 20250505152411.png"
   ]
 }
