@@ -13,6 +13,8 @@
 
 Think of JPA as the **rulebook or [[Blueprint]]** for how Java apps interact with databases.
 
+More about [[JPA]]
+
 ---
 
 ## Hibernate
@@ -27,6 +29,10 @@ Think of JPA as the **rulebook or [[Blueprint]]** for how Java apps interact wit
 
 
 So if JPA is the **rulebook**, Hibernate is a **concrete player following those rules** but also adding some tricks.
+
+To me(a dumb guy), is more easy to understand hibernate when I think on it as a JPA compiler to SQL.
+
+More About Hibernate: [[ORM]].
 
 ---
 

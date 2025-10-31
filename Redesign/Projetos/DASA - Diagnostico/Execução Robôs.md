@@ -4,7 +4,7 @@
 	- Todos os dias as 09:00, 12:00 e 17:00 ok
 - **BR_R07_Integra_CadastroInformacoesContratuais**
 	- Todos os dias as 10:00, 14:00 e 19:00 ok
-- **BR_R05_ExtracoesAnalisePVM**
+- **BR_R05_ExtracoesAnalisePVM**(Desativado)
 	- Todos os dias as 10:30 ok
 - **BR_R39_DashBord**
 	- De segunda a sábado as 07:30, 11:00, 16:30 e 23:50 / Domingos as 23:50 (Back)
@@ -22,8 +22,6 @@
 	- Sexta-feira de 15 em 15 dias ok
 - **BR_R35_TratativasDaBaseDoGliese**
 	- As 04:00, entre os dias 7 e 9 do mês
-- **BR_R036_CorrecaoGrupoPagamento**
-	- De segunda a sábado as 03:00 ok
 - **BR_R29_ConferenciaPagamentos**
 	- De terça a sábado as 08:00 ok
 - **BR_R54 - Expansão de itens não estocáveis (Desativada)**
@@ -48,6 +46,8 @@
 	- Todos os dias as 04:00 ok   
 - **BR_R27_BuscaEmailsChamados**
 	- Todos os domingos as 20:00 ok
+- **BR_R036_CorrecaoGrupoPagamento**
+	- De segunda a sábado as 03:00 ok
 
 ---
 # SVC_UIPATH4
