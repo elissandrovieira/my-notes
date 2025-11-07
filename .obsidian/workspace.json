@@ -11,10 +11,14 @@
             "id": "41b29bd267345545",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Design/DAHAUS/message pattern.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "message pattern"
             }
           }
         ]
@@ -153,8 +157,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
         ],
@@ -179,11 +183,14 @@
   },
   "active": "41b29bd267345545",
   "lastOpenFiles": [
+    "Redesign/Projetos/DASA - Diagnostico/Descrição dos processos.md",
+    "Design/DAHAUS/message pattern.md",
+    "Design/DAHAUS",
+    "Design",
     "Untitled 2.base",
     "Interviews/Interview questions.md",
     "Redesign/Projetos/DASA - Diagnostico/Execução Robôs.md",
     "Interviews",
-    "Redesign/Projetos/DASA - Diagnostico/Descrição dos processos.md",
     "Untitled.base",
     "Untitled 1.base",
     "Algorithm and Data Structures/Big O Notation.md",
@@ -211,8 +218,6 @@
     "2025-09-11.md",
     "z - files/blueprint@2x.jpg",
     "Languages/English/words",
-    "Languages",
-    "Languages/English",
     "Learning/Java/Spring/Modules/Spring Directory Project Structure.md",
     "Learning/Java/Spring/Modules/Starting Spring projects.md",
     "z - files/COT.jpg",
